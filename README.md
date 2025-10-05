@@ -1,7 +1,3 @@
-Absolutely! Here's a **professional, structured README** for your Real Estate Price Predictor project. You can adjust it to your liking.
-
----
-
 # 🏠 Real Estate Price Predictor
 
 A web application that predicts house prices in Indian cities based on area (sqft), number of bedrooms (BHK), bathrooms, and location using machine learning. Built with **FastAPI** for the backend and **React** for the frontend.
